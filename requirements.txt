@@ -1,0 +1,11 @@
+boto3
+requests
+python-dotenv
+pytest
+pyarrow
+pandas
+pyspark
+pyspark.sql
+snowflake-connector-python
+# snowflake-sqlalchemy
+sqlalchemy
