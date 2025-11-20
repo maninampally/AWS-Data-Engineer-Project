@@ -5,7 +5,6 @@ pytest
 pyarrow
 pandas
 pyspark
-pyspark.sql
 snowflake-connector-python
 # snowflake-sqlalchemy
 sqlalchemy
