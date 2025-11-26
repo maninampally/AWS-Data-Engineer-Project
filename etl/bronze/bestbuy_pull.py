@@ -7,7 +7,7 @@ from typing import List, Dict
 
 from etl.utils.secret_manager import get_bestbuy_api_key
 
-api_key = get_bestbuy_api_key()
+# api_key = get_bestbuy_api_key()
 
 BRONZE_BUCKET = "store-ops-dev-bronze"   # your bucket name
 BRONZE_PREFIX = "bestbuy/catalog"        # logical folder under bucket
