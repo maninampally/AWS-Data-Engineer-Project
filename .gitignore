@@ -1,1 +1,8 @@
 .env
+__pycache__/
+*.pyc
+
+airflow-bestbuy/logs/
+airflow.cfg
+webserver_config.py
+*.log
